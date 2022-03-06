@@ -21,7 +21,7 @@ export type {
   IOutgoingMessage,
   IRoutePacket,
 } from './specs'
-
+export * from './specs'
 export function createBus<Meta extends Record<string, unknown> = Record<string, unknown>>(
   id: string,
   meta: Meta,

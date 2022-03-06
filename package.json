@@ -1,6 +1,6 @@
 {
   "name": "@gratico/subway",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "author": "Abhishiv Saxena<abhishiv@gmail.com>",
   "description": "peer to peer messaging system for use in browser or node",
   "license": "UNLICENSED",
